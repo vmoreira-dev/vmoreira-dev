@@ -1,6 +1,6 @@
 # Vinicius Moreira
 
-Full-stack Developer
+Full-Stack Developer
 
 ### Stack  
 - React / Next.js / TypeScript  
@@ -10,7 +10,7 @@ Full-stack Developer
 - Tailwind / Git / Vercel
 
 ### Projects  
-- **Horizon** – Task dashboard with clean flow  
+- Horizon – Task dashboard with clean flow
 - **Aether** – Real-time messaging and presence  
 - **Echelon** – Lightweight analytics module  
 - **Mercuria** – E-commerce UI with modular components
