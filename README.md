@@ -1,6 +1,6 @@
 # Vinicius Moreira  
 
-Full-stack developer based in Boston  
+Full-Stack Developer based in Boston  
 
 ---
 
