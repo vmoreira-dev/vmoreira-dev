@@ -6,10 +6,11 @@ Full-stack developer based in Boston
 
 ### Tech  
 
-- **Frontend:** React · Next.js · TypeScript · Tailwind  
-- **Backend:** Node.js · Express · Python  
-- **Database & ORM:** PostgreSQL · Prisma  
-- **Tools & Deployment:** Git · Vercel  
+- **Languages:** JavaScript · TypeScript · Python  
+- **Frontend:** React.js · Next.js · Tailwind CSS · HTML · CSS  
+- **Backend:** Node.js · Express.js  
+- **Databases:** PostgreSQL · MongoDB  
+- **Tools:** Git · GitHub  
 
 
 ### Projects  
