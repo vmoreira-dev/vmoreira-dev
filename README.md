@@ -1,32 +1,39 @@
 # Vinicius Moreira
 
-Full-stack developer focused on clean systems, fast UI, and scalable backend architecture.  
-Building projects that prioritize clarity, speed, and practical use.
+Full-stack developer focused on clean architecture, fast UI, and building tools that scale.
 
-Currently refining [vmoreira.dev](https://vmoreira.dev) — portfolio, testing ground, and home base for everything I build.
-
-### Tech
-
-- React / Next.js  
-- Node.js / Express  
-- TypeScript / JavaScript  
-- SQL / Prisma  
-- Python
-
-### Projects
-
-- **Horizon** – Task management dashboard for clarity-first productivity  
-- **Aether** – Real-time chat + presence  
-- **Echelon** – Lightweight user analytics module  
-- **Mercuria** – E-commerce storefront with clean component structure  
-
-### What I’m about
-
-- Minimal code, maximum clarity  
-- Thoughtful UX over flashy fluff  
-- Always iterating — on code, design, and the system behind it
+Currently refining [vmoreira.dev](https://vmoreira.dev) — portfolio, playground, and central repo for everything I ship.
 
 ---
 
-📫 Reach me at: `vinicius@vmoreira.dev`  
-GitHub: [vmoreira-dev](https://github.com/vmoreira-dev)
+### 🛠 Stack
+
+- **Frontend**: React, Next.js, TypeScript  
+- **Backend**: Node.js, Express, Python  
+- **Database**: PostgreSQL, Prisma, SQL  
+- **Other**: REST, Tailwind, Git, Vercel
+
+---
+
+### 🚧 Projects
+
+- **Horizon** – Task dashboard with a focus on minimal flow and performance  
+- **Aether** – Real-time chat built with presence + message sync  
+- **Echelon** – Lightweight user analytics module  
+- **Mercuria** – E-commerce storefront with modular components
+
+More at [vmoreira.dev/projects](https://vmoreira.dev/projects)
+
+---
+
+### 🎯 Focus
+
+- Clarity in code and UI  
+- Systems that scale cleanly  
+- Fast feedback loops  
+- Less fluff, more function
+
+---
+
+📫 `vinicius@vmoreira.dev`  
+👨‍💻 GitHub: [@vmoreira-dev](https://github.com/vmoreira-dev)
