@@ -11,7 +11,6 @@ Full-stack developer based in Boston
 - **Database & ORM:** PostgreSQL · Prisma  
 - **Tools & Deployment:** Git · Vercel  
 
----
 
 ### Projects  
 
