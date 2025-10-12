@@ -1,6 +1,6 @@
 # Vinicius Moreira
 
-Building software that runs clean and looks sharper.
+Full-stack Developer
 
 ### Stack  
 - React / Next.js / TypeScript  
