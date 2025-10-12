@@ -17,6 +17,6 @@ Full-Stack Developer based in Boston
 
 - **Horizon** – Task dashboard with clean flow  
 - **Aether** – Real-time messaging and presence  
-- **Echelon** – Lightweight analytics module  
+- **Stratos** – Weather app with live forecasts and location tracking.
 - **Mercuria** – E-commerce UI with modular components  
 - **PinDrop** – Bookmark manager focused on speed and simplicity  
