@@ -13,5 +13,3 @@ Full-stack developer based in Boston
 - **Mercuria** – E-commerce UI with modular components  
 
 ---
-
-📫 [vinicius@vmoreira.dev](mailto:vinicius@vmoreira.dev)
