@@ -4,11 +4,17 @@ Full-stack developer based in Boston
 
 ---
 
-**Tech**  
-- React · Next.js · TypeScript  
+**Frontend**  
+- React · Next.js · TypeScript · Tailwind  
+
+**Backend**  
 - Node.js · Express · Python  
+
+**Database & ORM**  
 - PostgreSQL · Prisma  
-- Tailwind · Git · Vercel  
+
+**Tools & Deployment**  
+- Git · Vercel  
 
 ---
 
