@@ -24,7 +24,6 @@ Currently refining [vmoreira.dev](https://vmoreira.dev) — portfolio, testing g
 
 - Minimal code, maximum clarity  
 - Thoughtful UX over flashy fluff  
-- High standards, low drama  
 - Always iterating — on code, design, and the system behind it
 
 ---
