@@ -1,6 +1,6 @@
 # Vinicius Moreira
 
-Full-stack developer with a focus on clean code, performance, and maintainable systems.
+Building software that runs clean and looks sharper.
 
 ### Stack  
 - React / Next.js / TypeScript  
