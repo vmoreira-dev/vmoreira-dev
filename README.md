@@ -4,28 +4,15 @@ Full-stack developer based in Boston
 
 ---
 
-### 🧠 Frontend  
-- React  
-- Next.js  
-- TypeScript  
-- Tailwind  
-
-### ⚙️ Backend  
-- Node.js  
-- Express  
-- Python  
-
-### 🗄️ Database & ORM  
-- PostgreSQL  
-- Prisma  
-
-### 🧰 Tools  
-- Git  
-- Vercel  
+**Tech**  
+- React · Next.js · TypeScript  
+- Node.js · Express · Python  
+- PostgreSQL · Prisma  
+- Tailwind · Git · Vercel  
 
 ---
 
-### 🧩 Projects  
+**Projects**  
 - **Horizon** – Task dashboard with clean flow  
 - **Aether** – Real-time messaging and presence  
 - **Echelon** – Lightweight analytics module  
