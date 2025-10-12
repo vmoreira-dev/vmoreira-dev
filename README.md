@@ -31,7 +31,6 @@ More at [vmoreira.dev/projects](https://vmoreira.dev/projects)
 - Clarity in code and UI  
 - Systems that scale cleanly  
 - Fast feedback loops  
-- Less fluff, more function
 
 ---
 
