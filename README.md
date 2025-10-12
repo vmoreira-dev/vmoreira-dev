@@ -19,4 +19,4 @@ Full-Stack Developer based in Boston
 - **Aether** – Real-time messaging and presence  
 - **Stratos** – Weather app with live forecasts and location tracking.
 - **Mercuria** – E-commerce UI with modular components  
-- **PinDrop** – Bookmark manager focused on speed and simplicity  
+
