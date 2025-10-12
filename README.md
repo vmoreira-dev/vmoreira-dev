@@ -12,6 +12,7 @@ Full-Stack Developer based in Boston
 - **Databases:** PostgreSQL · MongoDB  
 - **Tools:** Git · GitHub  
 
+---
 
 ### Projects  
 
