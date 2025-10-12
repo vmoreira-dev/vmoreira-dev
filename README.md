@@ -19,3 +19,4 @@ Full-Stack Developer based in Boston
 - **Aether** – Real-time messaging and presence  
 - **Echelon** – Lightweight analytics module  
 - **Mercuria** – E-commerce UI with modular components  
+- **PinDrop** – Bookmark manager focused on speed and simplicity  
