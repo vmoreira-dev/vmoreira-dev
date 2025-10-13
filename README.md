@@ -21,3 +21,4 @@ Full-Stack Developer based in Boston
 - **Stratos**: Weather app with live forecasts and location tracking  
 - **Mercuria**: E-commerce UI with modular components
 
+---
