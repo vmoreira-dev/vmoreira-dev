@@ -4,7 +4,7 @@ Full-Stack Developer based in Boston
 
 ---
 
-#Tech
+##Tech
 
 - **Languages:** JavaScript · TypeScript · Python  
 - **Frontend:** React.js · Next.js · Tailwind CSS · HTML · CSS  
