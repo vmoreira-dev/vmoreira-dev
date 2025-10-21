@@ -16,7 +16,9 @@ Full-Stack Developer based in Boston
 
 ## Projects
 
-- **Horizon**: Task dashboard with clean flow  
-- **Aether**: Real-time messaging
-- **Stratos**: Weather app with live forecasts and location tracking  
+- **Horizon**: Task dashboard with clean flow
 - **Mercuria**: E-commerce UI with modular components
+- **Stratos**: Weather app with live forecasts and location tracking  
+- **Aether**: Real-time messaging
+
+
