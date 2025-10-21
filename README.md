@@ -16,11 +16,11 @@ Full-Stack Developer based in Boston
 
 ## Projects
 
-- Showcase: Personal portfolio built with Next.js and Tailwind.  
-- Horizon: Task dashboard with clean flow.  
-- Mercuria: E-commerce UI with modular components.  
-- Stratos: Weather app with live forecasts and location tracking.  
-- Aether: Real-time messaging.
+- Showcase: Interactive portfolio crafted with Next.js and Tailwind — clean layout, custom domains, and dynamic project highlights.
+- Horizon: Full-stack task dashboard with adaptive UI, real-time updates, and seamless workflow orchestration.
+- Mercuria: Sleek e-commerce platform featuring dynamic product filters, modular components, and mock checkout integration.
+- Stratos: Weather dashboard with live forecasts, geolocation, and a refined dark UI built for clarity and speed.
+- Aether: Lightweight real-time messaging app with group chat, topic threads, and synced message state across devices.
 
 
 
