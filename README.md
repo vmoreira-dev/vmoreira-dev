@@ -16,9 +16,10 @@ Full-Stack Developer based in Boston
 
 ## Projects
 
-- **Horizon**: Task dashboard with clean flow
-- **Mercuria**: E-commerce UI with modular components
-- **Stratos**: Weather app with live forecasts and location tracking  
-- **Aether**: Real-time messaging
+- [**Showcase**](https://github.com/vmoreira-dev/showcase): Personal portfolio built with Next.js and Tailwind.
+- [**Horizon**](https://github.com/vmoreira-dev/Horizon): Task dashboard with clean flow.
+- [**Mercuria**](https://github.com/vmoreira-dev/Mercuria): E-commerce UI with modular components.
+- [**Stratos**](https://github.com/vmoreira-dev/Stratos): Weather app with live forecasts and location tracking.
+- [**Aether**](https://github.com/vmoreira-dev/Aether): Real-time messaging.
 
 
