@@ -16,7 +16,6 @@ Full-Stack Developer based in Boston
 
 ## Projects
 
-- Showcase: Portfolio with custom domains and dynamic project grid.
 - Horizon: Task dashboard with adaptive UI and real-time updates.
 - Mercuria: Modular e-commerce UI with filters and mock checkout.
 - Stratos: Weather app with geolocation and dark-mode UI.
