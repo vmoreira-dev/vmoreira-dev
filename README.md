@@ -19,7 +19,7 @@ Full-Stack Developer based in Boston
 - Horizon: Minimal task board focused on clarity, speed, and clean interaction.
 - Mercuria: Modular e-commerce UI with filtering, cart flow, and mock checkout.
 - Stratos: Performance-driven UI prototype exploring motion and responsiveness.
-- Aether: Real-time chat with presence, synced messages, and smooth updates.
+- Aether: Immersive finance interface for visualizing spending patterns and money movement.
 
 
 
