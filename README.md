@@ -1,11 +1,4 @@
 # Vinicius Moreira
-
-Full-Stack Developer
-
----
-
-Each project explores a different constraint: control, space, motion, or money.
-
 ---
 
 ## Projects
