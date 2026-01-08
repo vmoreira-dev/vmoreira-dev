@@ -4,13 +4,7 @@ Full-Stack Developer
 
 ---
 
-## Tech
-
-- **Languages:** JavaScript · TypeScript · Python  
-- **Frontend:** React.js · Next.js · Tailwind CSS · HTML · CSS  
-- **Backend:** Node.js · Express.js  
-- **Databases:** PostgreSQL · MongoDB  
-- **Tools:** Git · GitHub  
+Each project explores a different constraint: control, space, motion, or money.
 
 ---
 
