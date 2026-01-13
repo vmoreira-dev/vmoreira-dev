@@ -3,7 +3,7 @@
 
 ## Projects
 
-- **Horizon:** A razor-clean command board for turning intention into action  
-- **Mercuria:** A slow, controlled luxury display built around silence, space, and product presence  
-- **Stratos:** A floating weather console built from glass, motion, and sky  
-- **Aether:** A cold financial lens that turns spending into visible behavior  
+- **Horizon:** Fixed-column task board optimized for low-friction execution
+- **Mercuria:** Product showcase focused on spacing, pacing, and visual restraint 
+- **Stratos:** Glass-based weather interface designed for glance-level reading
+- **Aether:** Personal finance dashboard emphasizing trends, totals, and drift
