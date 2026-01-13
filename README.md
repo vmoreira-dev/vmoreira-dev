@@ -3,7 +3,7 @@
 
 ## Projects
 
-- **Horizon:** Fixed-column task board optimized for low-friction execution
-- **Mercuria:** Product showcase focused on spacing, pacing, and visual restraint 
-- **Stratos:** Glass-based weather interface designed for glance-level reading
-- **Aether:** Personal finance dashboard emphasizing trends, totals, and drift
+- **Horizon:** Task board that prioritizes momentum over flexibility
+- **Mercuria:** Product UI focused on presentation and visual control
+- **Stratos:** Weather data distilled for instant recognition
+- **Aether:** Spending data organized to reveal patterns over time
